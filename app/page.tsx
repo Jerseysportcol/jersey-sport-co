@@ -10,6 +10,7 @@ export default function Home() {
       <a
         href="https://wa.me/573001112233?text=Hola,%20quiero%20personalizar%20un%20jersey"
         target="_blank"
+        rel="noopener noreferrer"
         className="bg-blue-900 text-white px-6 py-2 rounded hover:bg-blue-800 transition"
       >
         PEDIR POR WHATSAPP
@@ -17,4 +18,5 @@ export default function Home() {
     </main>
   );
 }
+
 
