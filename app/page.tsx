@@ -12,3 +12,9 @@ export default function Home() {
         target="_blank"
         className="bg-blue-900 text-white px-6 py-2 rounded hover:bg-blue-800 transition"
       >
+        PEDIR POR WHATSAPP
+      </a>
+    </main>
+  );
+}
+
