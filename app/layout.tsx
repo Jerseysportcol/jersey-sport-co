@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'Jersey Sport Co',
   description: 'Personaliza tu jersey como quieras',
