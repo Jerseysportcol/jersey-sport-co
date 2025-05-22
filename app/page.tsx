@@ -1,7 +1,3 @@
-// app/page.tsx
-
-import React from 'react';
-
 export default function Home() {
   return (
     <main className="min-h-screen bg-white text-blue-900 font-sans flex flex-col items-center justify-center p-8">
